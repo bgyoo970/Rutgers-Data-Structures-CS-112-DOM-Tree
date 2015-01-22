@@ -15,4 +15,6 @@ and each operation corresponds to the first character of the word *(e.g. input "
 A DOM tree is used as the data structure to store the data from the HTML file and to print out the resulting HTML text correctly. Recursion is used heavily as inorder traversal is used to traverse the tree. Helper methods are used.
 
 ###### A note.
-Some parts of the code seem to be a bit buggy. Boldface does not seem to work correctly as well
+Some parts of the code seem to be a bit buggy. Boldface does not work as intended. Aditionally, when dealing with the tags "li", "ul", or "ol", the code may also not work as intended. 
+
+All use of this code must comply with the [Rutgers University Code of Student Conduct](http://eden.rutgers.edu/%7Epmj34/media/AcademicIntegrity.pdf).
